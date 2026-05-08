@@ -1,0 +1,7 @@
+<!-- save as: favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <path d="M4 20V10M10 20V4M16 20V14M22 20V8"
+        stroke="#2563eb"
+        stroke-width="2"
+        stroke-linecap="round"/>
+</svg>
